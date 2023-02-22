@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=surmelienes1&count_private=true&show_icons=true&theme=dark" alt="surmelienes1" width="48.3%" >
-  <img src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=surmelienes1&count_private=true&show_icons=true&theme=dark" alt="surmelienes1" width="51%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surmelienes1&count_private=true&show_icons=true&theme=dark" alt="surmelienes1" width="51%" />
 </p>
 <p align="center">
 </p>
